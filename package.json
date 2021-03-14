@@ -1,0 +1,23 @@
+{
+  "name": "week-1",
+  "version": "1.0.0",
+  "description": "This is npm installer, as I'm not seeing package.json file.",
+  "main": "index.html",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farooq-ali21/Week-1.git"
+  },
+  "author": "Farooq Ali Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farooq-ali21/Week-1/issues"
+  },
+  "homepage": "https://github.com/farooq-ali21/Week-1#readme"
+}
